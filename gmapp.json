@@ -1,0 +1,14 @@
+{
+  "name":"The safe Way",
+  "id":"92864044",
+  "template": "Blank",
+  "version": "0.0.0",
+  "src": "src",
+  "dist": "dist",
+  "main": "index.html",
+  "icon": "Icon.png",
+  "developer": "Ichrak",
+  "category": "General",
+  "type": "RemoteHigh",
+  "description": "Generated on 2/4/2018, 10:59:38 PM by ngi-sdk version "
+}
